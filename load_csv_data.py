@@ -4,8 +4,6 @@ Created on Sat Jun 22 15:45:59 2024
 
 @author: Francesco Brandoli
 """
-# load_csv.py
-
 import pandas as pd
 from db_connection import *
 
