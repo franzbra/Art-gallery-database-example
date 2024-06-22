@@ -1,0 +1,4 @@
+ArtworkID,Title,ArtistID,Year,Medium,Dimensions,Price,LocationID,Status,Description,ImageURL
+1,Mona Lisa,1,1503,"Oil on canvas","77 x 53 cm",1000000,1,"On Display","A portrait of a woman with a mysterious smile","https://images.com/monalisa.jpg"
+2,Starry Night,2,1889,"Oil on canvas","73.7 x 92.1 cm",2000000,2,"On Display","A depiction of a night sky filled with swirling clouds and stars","https://images.com/starrynight.jpg"
+3,Guernica,3,1937,"Oil on canvas","349.3 x 776.6 cm",3000000,3,"In Storage","A powerful political statement painted in response to the bombing of Guernica","https://images.com/guernica.jpg"

@@ -1,0 +1,4 @@
+InventoryID,ArtworkID,CurrentLocation,Condition,LastCheckedDate
+1,1,Louvre Museum,Excellent,2024-01-01
+2,2,Metropolitan Museum of Art,Good,2024-01-15
+3,3,Museum of Modern Art,Good,2024-02-01

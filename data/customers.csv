@@ -1,0 +1,4 @@
+CustomerID,FirstName,LastName,Email,PhoneNumber,Address,City,State,ZipCode,Country
+1,John,Doe,johndoe@example.com,1234567890,123 Elm St,New York,NY,10001,USA
+2,Jane,Smith,janesmith@example.com,0987654321,456 Oak St,Los Angeles,CA,90001,USA
+3,Bob,Johnson,bobjohnson@example.com,1112223333,789 Pine St,Chicago,IL,60601,USA

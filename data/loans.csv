@@ -1,0 +1,4 @@
+LoanID,ArtworkID,BorrowerName,BorrowerAddress,StartDate,EndDate,ReturnDate
+1,1,Smithsonian,1000 Jefferson Dr SW,2024-01-01,2024-06-01,2024-06-01
+2,2,Tate Modern,Bankside,London,2024-02-01,2024-07-01,2024-07-01
+3,3,Museum of Fine Arts,465 Huntington Ave,Boston,2024-03-01,2024-08-01,2024-08-01

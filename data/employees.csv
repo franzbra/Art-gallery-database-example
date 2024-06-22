@@ -1,0 +1,4 @@
+EmployeeID,FirstName,LastName,Role,Email,PhoneNumber,HireDate
+1,Anna,Williams,Curator,annawilliams@example.com,4445556666,2020-01-15
+2,Mark,Brown,Manager,markbrown@example.com,7778889999,2018-03-20
+3,Lisa,White,Director,lisawhite@example.com,1231231234,2015-05-25

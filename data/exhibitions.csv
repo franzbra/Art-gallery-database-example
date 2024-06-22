@@ -1,0 +1,4 @@
+ExhibitionID,Title,StartDate,EndDate,LocationID,Description
+1,Renaissance Masters,2024-01-01,2024-06-30,1,"An exhibition showcasing masterpieces from the Renaissance period"
+2,Impressionist Art,2024-02-01,2024-05-30,2,"A collection of works by the leading Impressionist artists"
+3,Modern Art,2024-03-01,2024-09-30,3,"Exploring the evolution of modern art through various movements"

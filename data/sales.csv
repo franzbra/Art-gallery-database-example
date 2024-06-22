@@ -1,0 +1,4 @@
+SaleID,ArtworkID,CustomerID,DateOfSale,SalePrice
+1,1,1,2024-01-15,1000000
+2,2,2,2024-02-20,2000000
+3,3,3,2024-03-25,3000000
