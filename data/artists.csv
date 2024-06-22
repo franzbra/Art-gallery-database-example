@@ -1,0 +1,4 @@
+ArtistID,FirstName,LastName,DateOfBirth,Nationality,Biography,WebsiteURL,ImageURL
+1,Leonardo,da Vinci,1452-04-15,Italian,"Renaissance artist and polymath","https://leonardodavinci.com","https://images.com/leonardo.jpg"
+2,Vincent,van Gogh,1853-03-30,Dutch,"Post-Impressionist painter","https://vincentvangogh.com","https://images.com/vangogh.jpg"
+3,Pablo,Picasso,1881-10-25,Spanish,"Spanish painter and sculptor","https://pablopicasso.com","https://images.com/picasso.jpg"
